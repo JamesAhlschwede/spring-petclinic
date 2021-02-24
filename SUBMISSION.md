@@ -14,9 +14,13 @@
 ![Screen Capture #5](./images/image5.png)
 
 ####Your Travis CI dashboard showing the unsuccessful build after the breaking change.
+![Screen Capture #6](./images/image6.png)
 
 ####Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
+![Screen Capture #7](./images/image7.png)
+
 ####The section of the POM file showing the coordinates after you’ve fixed them.
+![Screen Capture #8](./images/image8.png)
 
 ####Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
 
