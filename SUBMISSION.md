@@ -23,5 +23,7 @@
 ![Screen Capture #8](./images/image8.png)
 
 ####Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
+![Screen Capture #9](./images/image9.png)
 
 ####Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
+![Screen Capture #10](./images/image10.png)
